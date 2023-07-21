@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antEater3005
-- 👀 I’m interested in Problem solving, and Web development.
+- 👀 I’m interested in Problem-solving, and Web development.
 - 🌱 I’m currently learning Web development and C++ 
-- 💞️ I’m looking to collaborate on Web development projects and software development projects.
+- 💞️ I’m looking to collaborate on web and software development projects.
 - 📫 You can reach me at avi7317@gmail.com.
 
 <!---
