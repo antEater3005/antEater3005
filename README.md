@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
  
 
 ## Skills:
+### React Js | NodeJs | MongoDB  | Express | Java | React Native | AWS
 
-### React Js | NodeJs | MongoDB  | Java | React Native   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=antEater3005&show_icons=true)  
 
